@@ -38,3 +38,23 @@
 
 - **LangChain** → A framework for creating `Chains` and `Agents`
 - **LangGraph** → An engine for organizing those `Chains/Agents` as `Nodes` in a `Graph` workflow and executing them
+
+## ⚙️ Virtual Environment with uv
+
+### Create venv
+
+```
+uv venv
+```
+
+### Activate venv
+
+```
+source .venv/bin/activate
+```
+
+### Deactivate venv
+
+```
+deactivate
+```
